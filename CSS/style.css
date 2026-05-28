@@ -37,7 +37,6 @@ body{
   object-fit:cover;
 }
 
-/* cube geometry */
 .front  { transform:rotateY(0deg) translateZ(147px) translateX(10px) translateY(-30px); }
 .back   { transform:rotateY(90deg) translateZ(65px) translateX(-70px) translateY(1px); }
 .right  { transform:rotateY(0deg) translateZ(146px) translate(10px) translateY(-290px);  }
